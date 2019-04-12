@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}\\lib\\Adafruit_MCP23017\\src",
+                "${workspaceFolder}\\lib\\neopixel\\src\\neopixel",
+                "${workspaceFolder}\\lib\\Contador_Binario\\src",
+                "${workspaceFolder}\\lib\\Auto_Increible\\src",
+                "${workspaceFolder}\\lib\\Contador_RGB\\src",
+                "${workspaceFolder}\\lib\\Contador_Neopixel\\src",
+                "${workspaceFolder}\\lib\\ADC_a_Neopixel\\src",
+                "${workspaceFolder}\\lib\\ADC_a_Neopixel2\\src",
+                "${workspaceFolder}\\lib\\ADC_a_RGB\\src",
+                "${workspaceFolder}\\lib\\ADC_a_Serial\\src",
+                "${workspaceFolder}\\lib\\Display_7_Segmentos\\src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "particle.particle-vscode-core"
+        }
+    ],
+    "version": 4
+}
